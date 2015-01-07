@@ -33,7 +33,7 @@
 # die scrlttr2-Klasse des KOMA-Scripts zurückgegriffen.
 #
 # Nach einer Reihe von Abfragen öffnet sich der nano-Editor, in dem man den
-# Brieftext eingeben kann.
+# Brieftext eingeben kann. Anschließend wird ein PDF-Dokument erzeugt.
 #
 # Das Skript kann einfach an die eigenen Vorlieben angepasst werden, indem
 # die XeLaTeX-Briefvorlage entsprechend geändert wird.
