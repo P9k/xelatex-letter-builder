@@ -20,3 +20,7 @@ Brieftext eingeben kann.
 
 Das Skript kann einfach an die eigenen Vorlieben angepasst werden, indem
 die XeLaTeX-Briefvorlage entsprechend geändert wird.
+
+
+
+07/01/2015: Version 1.0
