@@ -206,7 +206,7 @@ echo ""
 function opening {
 echo ""
 echo "#################################################"
-echo "Anrede? (Default: Sehr geehrte Damen und Herren)"
+echo "Anrede? (Default: Sehr geehrte Damen und Herren,)"
 read OPENING
 if  [ "$OPENING" == "" ]; then       # Name leer?
         OPENING="Sehr geehrte Damen und Herren,"
