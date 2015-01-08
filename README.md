@@ -1,5 +1,5 @@
 # xelatex-letter-builder
-Bash-Skript, um automatisiert schön gelayoutete Briefe mit XeLaTex zu erstellen
+Bash-Skript, um automatisiert schön gelayoutete Briefe mit XeLaTeX zu erstellen
 
 Dies ist ein Skript, um automatisiert XeLaTeX-Briefe mit der Schriftart
 Linux Libertine und Linux Biolinum zu erstellen. Es wird hierbei auf
