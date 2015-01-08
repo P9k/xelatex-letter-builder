@@ -2,7 +2,7 @@
 #
 #
 #  -----------------------------------------------------------
-#  |                "XeLaTeX-LetterBuilder"                    |
+#  |                "XeLaTeX-LetterBuilder"                  |
 #  -----------------------------------------------------------
 
 #  Ein BASH-Skript, um automatisiert schön gelayoutete Briefe
