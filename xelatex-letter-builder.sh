@@ -340,8 +340,8 @@ $INSERTURL
 % \\usepackage{unicode-math}
 % \\defaultfontfeatures{Mapping=tex-text, Numbers=OldStyle} % mit Mediävalziffern
 \\defaultfontfeatures{Mapping=tex-text} % mit normalen Ziffern   Damit man lange Striche weiter mit "--" schreiben kann.
-\\setmainfont{Linux Libertine O}
-\\setsansfont{Linux Biolinum O}
+\\setmainfont{$MAINFONT}
+\\setsansfont{$SANSFONT}
 % \\setmathfont[Scale=MatchLowercase]{Asana Math} %Scale=.. notwendig, da Asana Math-Zahlen etwas zu groß sind! Orientiert sich am Schriftbild. 
 
 
