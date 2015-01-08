@@ -294,7 +294,7 @@ cat <<-EOF > "$FOLDERNAME".tex
 \\documentclass{scrlttr2}
 
 \\KOMAoptions{parskip,locfield=wide,firsthead=false,enlargefirstpage}
-\\LoadLetterOption{DINmtext}
+%\\LoadLetterOption{DINmtext}       % Aktivieren, um mehr Text auf die Seite zu bekommen. Dann passt aber die Anschrift nicht mehr ins Brieffenster.
 
 \\setkomavar{fromname}{$SENDER}
 \\setkomavar{fromaddress}{$SENDERSTREET\\\\$SENDERCITY}
