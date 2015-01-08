@@ -455,13 +455,12 @@ fi
 }
 
 #
-# Funktionen ausführen: Brief erstellen und anzeigen
+# Funktionen ausführen: Brief erstellen
 #
 
 
 welcome
 checksavepath
-#loadsender
 recipient
 subject
 city
